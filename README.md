@@ -1,4 +1,5 @@
-# FunFreshNew-s_Workspace_Krita
+# Krita_BUNDLE-FunFreshNew_Workspace
+
 It's my personal workspace and it fully modified, feel free to use the ^^
 
 How To Install
