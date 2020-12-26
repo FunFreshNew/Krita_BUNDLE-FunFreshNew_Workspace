@@ -1,6 +1,6 @@
 # Krita_BUNDLE-FunFreshNew_Workspace
 
-It's my personal workspace and it fully modified, feel free to use the ^^
+It's my personal workspace and it fully modified, feel free to use them :)
 
 <img src="https://github.com/FunFreshNew/Krita_BUNDLE-FunFreshNew_Workspace/blob/main/image_2020-12-26_104545.png" width="800px" height="auto">
 
